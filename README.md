@@ -33,11 +33,15 @@ Example:
 
 ## Sample Output
 ===== Login Authentication System =====
+
 Enter username: admin Enter password: 12345
+
 Login successful! Welcome, admin
 
 Incorrect login example:
+
 Enter username: user Enter password: 1111
+
 Invalid username or password.
 
 ## Author
